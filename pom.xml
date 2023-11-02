@@ -16,7 +16,10 @@
         <module>spring-04-abstraction</module>
         <module>spring-05-core-beans</module>
         <module>spring-review-IoC</module>
-        <module>spring-</module>
+        <module>Spring-06-SpringBoot-Demo</module>
+        <module>Spring-07-Spring-MVC-Controller</module>
+        <module>Spring-08-Spring-MVC-Model</module>
+        <module>spring-09-tymeleaf</module>
     </modules>
 
     <properties>
